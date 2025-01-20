@@ -71,3 +71,9 @@ Regresja składowych głównych to technika łącząca PCA z regresją liniową,
 PCA to potężne narzędzie umożliwiające redukcję wymiarowości danych przy jednoczesnym zachowaniu kluczowych informacji. Jego zastosowanie obejmuje zarówno eksplorację danych, jak i budowę bardziej efektywnych modeli w uczeniu maszynowym. Kombinacja PCA z innymi metodami, takimi jak regresja składowych głównych, umożliwia radzenie sobie z problemami kolinearności i przeuczenia w złożonych zestawach danych.
 
 
+
+PCA - warsztaty HPC 
+- tak naprawde to szukanie wektorów i wartości własnych 
+- wektory własne są ortogonalne 
+- normalizacja 
+- szybki algorytm: 
